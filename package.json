@@ -1,0 +1,10 @@
+{
+  "name": "vitest-esbuild-plugin-not-called-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^2.7.6",
+    "vitest": "^0.0.107"
+  }
+}
